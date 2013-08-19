@@ -1,9 +1,3 @@
-no Python documentation found for 'gatherer.py'
-
-no Python documentation found for '-w'
-
-Help on module gatherer:
-
 NAME
     gatherer
 
